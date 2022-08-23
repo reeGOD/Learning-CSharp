@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\bin\Debug\net6.0\AprendendoCSharp.exe
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\bin\Debug\net6.0\AprendendoCSharp.deps.json
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\bin\Debug\net6.0\AprendendoCSharp.runtimeconfig.json
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\bin\Debug\net6.0\AprendendoCSharp.dll
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\bin\Debug\net6.0\AprendendoCSharp.pdb
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\obj\Debug\net6.0\AprendendoCSharp.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\obj\Debug\net6.0\AprendendoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\obj\Debug\net6.0\AprendendoCSharp.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\obj\Debug\net6.0\AprendendoCSharp.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\obj\Debug\net6.0\AprendendoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\obj\Debug\net6.0\AprendendoCSharp.dll
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\obj\Debug\net6.0\refint\AprendendoCSharp.dll
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\obj\Debug\net6.0\AprendendoCSharp.pdb
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\obj\Debug\net6.0\AprendendoCSharp.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\Repositorios\C#\Explorando a linguagem\AprendendoCSharp\obj\Debug\net6.0\ref\AprendendoCSharp.dll
